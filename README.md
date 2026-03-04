@@ -1,6 +1,9 @@
 **岸不是一艘船。船要出海，要征服风浪，要抵达彼岸。  
 岸就是岸本身。你不需要抵达哪里。你已经在岸上了。**
 
+[![Stargazers repo roster for @huliye24/-Shore-](https://reporoster.com/stars/dark/huliye24/-Shore-)](https://github.com/huliye24/-Shore-/stargazers)
+[![Forkers repo roster for @huliye24/-Shore-](https://reporoster.com/forks/dark/huliye24/-Shore-)](https://github.com/huliye24/-Shore-/network/members)
+
 ---
 
 ## 简介
